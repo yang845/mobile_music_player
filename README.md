@@ -9,4 +9,5 @@ A simple mobile music player
 
 ### 页面展示
 
-![](img\players.png)
+![](https://github.com/yang845/mobile-music-player/tree/master/img/players.png)
+
